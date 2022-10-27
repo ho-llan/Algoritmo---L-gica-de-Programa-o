@@ -1,4 +1,4 @@
-# Algoritmo   Logica de Programacao
+# Algoritmo   Lógica de Programação
 Lista de 100 exercícios de lógica de programação feito no VisuAlg.
 
 ##
